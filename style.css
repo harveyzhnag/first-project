@@ -1,3 +1,11 @@
+body{
+    background-color: orange;
+}
 .para{
     color: blue;
+    font-size: 500%;
+}
+
+li {
+    font-size: 30px;
 }
