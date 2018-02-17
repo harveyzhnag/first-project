@@ -1,5 +1,8 @@
-body{
+html{
     background-color: orange;
+}
+.important{
+    background-color:lightskyblue;
 }
 .para{
     color: blue;
